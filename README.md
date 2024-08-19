@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @jumattana7
+- 👀 I’m interested in data science, machine learning, and sustainable technologies.
+- 🌱 I’m currently learning Python, SQL, and advanced data analysis techniques.
+- 💞️ I’m looking to collaborate on projects related to data-driven sustainability and ESG initiatives.
+- 📫 How to reach me: [jumattana7@gmail.com](mailto:jumattana7@gmail.com)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I have a background in biotechnology and love merging science with cutting-edge technology to create impactful solutions.
